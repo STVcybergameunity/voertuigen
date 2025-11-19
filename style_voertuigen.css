@@ -1,0 +1,24 @@
+table {
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    min-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+p, h1{
+    text-align: center;
+}
+p{
+    text-decoration: underline solid black;
+}
+td, tr {
+    border-color: rgb(160, 160, 160);
+    border-width: 2px;
+    border-style: solid;
+    min-width: 200px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
