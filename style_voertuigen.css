@@ -21,4 +21,9 @@ td, tr {
     text-align: center;
     border-collapse: collapse;
 }
-
+body{
+    text-align: center;
+}
+form{
+    display: inline-block;
+}
